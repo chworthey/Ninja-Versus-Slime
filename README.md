@@ -1,0 +1,2 @@
+Made using Microsoft Visual Studio 2010 Ultimate on a Windows 7 machine. Uses Windows Phone SDK 7.0. Other software used: GIMP and Audacity. Outside sources: freeplaymusic.com and freesound.org. Original GIMP .xcf files are included for you artists out there. Thanks, making this in a day was fun, I'll definitely do something similar in the future.
+-Patrick Worthey
